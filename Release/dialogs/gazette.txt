@@ -1,0 +1,3 @@
+set_default_color|`o
+add_label_with_icon|big|`eGrowtopia``|left|10574|
+end_dialog|gazette|Close|
